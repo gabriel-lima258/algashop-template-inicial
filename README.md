@@ -155,8 +155,8 @@ Os quatro divergem do template em algum ponto — comparar cada um com este esqu
 
 Caderno de estudos do projeto: [`algashop-docs`](https://github.com/gabriel-lima258/algashop-docs).
 
-- [Ambiente local](https://github.com/gabriel-lima258/algashop-docs/blob/main/04-infraestrutura/ambiente-local.md) — portas, bancos e submódulos
-- [Flyway](https://github.com/gabriel-lima258/algashop-docs/blob/main/02-persistencia/flyway.md) — por que `ddl-auto` não serve para produção
-- [Tratamento de erros](https://github.com/gabriel-lima258/algashop-docs/blob/main/03-testes-integracao/tratamento-erros-api.md) — `ProblemDetail` e a hierarquia de exceções
-- [Contract tests](https://github.com/gabriel-lima258/algashop-docs/blob/main/03-testes-integracao/stubs-contract-tests.md) — as três suítes e por que são separadas
-- [Docker](https://github.com/gabriel-lima258/algashop-docs/blob/main/04-infraestrutura/docker.md) — build multi-arquitetura
+- [Ambiente local](https://github.com/gabriel-lima258/algashop-docs/blob/main/04-infraestrutura/01-ambiente-local.md) — portas, bancos e submódulos
+- [Flyway](https://github.com/gabriel-lima258/algashop-docs/blob/main/02-persistencia/01-flyway.md) — por que `ddl-auto` não serve para produção
+- [Tratamento de erros](https://github.com/gabriel-lima258/algashop-docs/blob/main/03-testes-integracao/02-tratamento-erros-api.md) — `ProblemDetail` e a hierarquia de exceções
+- [Contract tests](https://github.com/gabriel-lima258/algashop-docs/blob/main/03-testes-integracao/01-stubs-contract-tests.md) — as três suítes e por que são separadas
+- [Docker](https://github.com/gabriel-lima258/algashop-docs/blob/main/04-infraestrutura/02-docker.md) — build multi-arquitetura
